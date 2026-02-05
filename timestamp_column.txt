@@ -1,0 +1,2 @@
+### Add a forumular that automatically creates a timestamp when a row is updated in a table ###
+Example: "=IF(CELL("row")=ROW(R2),NOW(),R2)"
